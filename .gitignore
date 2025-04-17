@@ -21,3 +21,10 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+# Ignore everything in storage...
+/storage/*
+
+# ...but allow these exceptions:
+!storage/app/
+!storage/app/profile_photos/
