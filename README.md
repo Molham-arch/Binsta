@@ -27,7 +27,7 @@ Welcome to Binsta, a developer-friendly platform where users can share, edit, an
 ### 1. Run...
 
 ```bash
-git clone <https://github.com/Molham-arch/Binsta.git>
+git clone https://github.com/Molham-arch/Binsta.git
 cd binsta
 npm install
 composer install
